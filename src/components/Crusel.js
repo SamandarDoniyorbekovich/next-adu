@@ -44,10 +44,10 @@ const Carousel = () => {
       title: "Urban Decay",
       url: "https://adu.uz/rasmlar/news/2021/main_photo-2025-02-14_09-07-48-bobur22_mainph.jpg",
     },
-    {
-      title: "The Migration",
-      url: "https://da.se/app/uploads/2015/09/simon-december1994.jpg",
-    },
+    // {
+    //   title: "The Migration",
+    //   url: "https://da.se/app/uploads/2015/09/simon-december1994.jpg",
+    // },
   ];
 
   return (
